@@ -3,5 +3,5 @@ xml translator
 
 pip install translate
 
-You can search and use the country code, as in the example on this website
+You can search and use the country code, as in the example on this website <br>
 https://learn.microsoft.com/en-us/azure/ai-services/translator/language-support
