@@ -1,7 +1,7 @@
 from translate import Translator
 import xml.etree.ElementTree as ET
 
-translator = Translator(to_lang="..") #use the language code you want to translate, for example "id" for Indonesian
+translator = Translator(to_lang="..") #use the language code you want to translate, for example "id" for indonesian
 
 tree = ET.parse('..') #enter the directory of your xml file
 root = tree.getroot()
